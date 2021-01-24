@@ -18,6 +18,6 @@
 2. 替换参数值
 3. 签到并发送通知
 
-pt_key=复制插件搜索出来的key值;pt_pin=复制插件搜索出来的pin值; ,
+pt_key=复制插件搜索出来的key值;pt_pin=复制插件搜索出来的pin值; 
 
 详情参考文章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
